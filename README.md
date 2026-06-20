@@ -1,7 +1,7 @@
   <div align="center">
      
-![img](https://img.shields.io/badge/𝜗𝜚-44-A6454E)　　　　　　◡◡　　　　　　[新book](https://colorfool.atabook.org)
+![img](https://img.shields.io/badge/𝜗𝜚-001-D6D4B8)　　　　　　◡◡　　　　　　[新book](https://colorfool.atabook.org)
 
 ####
      
-<img width="444" alt="Image" src="https://github.com/user-attachments/assets/33fdc55d-6aea-49fb-8c99-3a2480c2462c" />
+<img width="366" alt="Image" src="https://github.com/user-attachments/assets/10ef5fe5-8feb-4bba-a198-4f9a7facef76" />
